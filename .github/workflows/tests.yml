@@ -26,7 +26,7 @@ jobs:
           - "2.5.7"
           - "2.6.5"
           - "2.7.2"
-          - truffleruby-head
+          - truffleruby-head 
         exclude:
           - gemfile: "6.0"
             ruby: "2.4.9"
